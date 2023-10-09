@@ -1,0 +1,9 @@
+CSS -Display property
+Display have 4 important values -flex,inline,inline-block,block
+these  are used to positioning elements in layouts
+
+inline -element take only suffcient space
+block -element takes a all space in a row
+inline-block -have both the properties 
+flex -is used in parent tag to position inner tag elements,elements in flex take all the space in a row or col (not take suffcient)
+inline-flex -behave like flex but space is taken suffcient to all the elements(donot take a row space)
